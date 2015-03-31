@@ -1,0 +1,23 @@
+body{ font-size: 13px; font-family: 'Helvetica Neue', arial, sans-serif; background-color: #FAFAFA;}
+
+.about-me img{ float:right; border: 1px solid black; margin: 15px;} 
+
+.nav li {display: inline}
+
+.footer p{font-size: 10px; font-style: italic;}
+
+/*.button {display: block;
+        height: 25px;
+        width: 50px;
+        background: black;
+        color: white;
+        text-align: center;
+        font-size 10px;}*/
+        
+
+.nav a:link{color: black; text-decoration: none;}
+
+.nav a:visited{color: black; text-decoration: none;}
+
+        
+		
